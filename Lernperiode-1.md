@@ -44,11 +44,13 @@ Heute habe ich mit meinem Projekt angefangen und eine Webseite gefunden, auf der
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] An Projekt arbeiten(C# lernen)
-- [ ] Für OBA(09.09.26) lernen 
-- [ ] if else und Variabeln lernen
+- [X] An Projekt arbeiten(C# lernen)
+- [X] Für OBA(09.09.26) lernen 
+- [X] if else und Variabeln lernen
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich vieles gelernt und einigen Sachen sind mir klar geworden wie while schleife, wie man das macht und wie das funktioniert oder auch die Verschiedene Datentypen gelernt wie zum Beispiel bool das es immer true oder false zeigt, das kann man gebrauchen z.B. wenn ich will schauen ob er eingelogt ist oder nicht.
+Für OBA bin ich bereit.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
