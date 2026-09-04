@@ -19,7 +19,7 @@ Ich möchte mich in dieser Lernperiode auf die Programmiersprache C# konzentrier
 In dieser Lernperiode möchte ich die Grundlagen der Programmiersprache C# lernen. Ich will verstehen, wie man einfache Programme schreibt, ohne die Sprache auswendig zu lernen. Mein Ziel ist es, regelmässig in ILA an C#‑Übungen zu arbeiten.
 ## Tagesplanungen
 
-### Planung 21.08.2024
+### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Ila Tag 1 fertig machen
@@ -30,7 +30,7 @@ In dieser Lernperiode möchte ich die Grundlagen der Programmiersprache C# lerne
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich den ersten ILA‑Tag vollständig erledigt und auch die Aufgabe zur Lernperiode gemacht. Zusätzlich habe ich mit dem zweiten ILA‑Tag begonnen. Dabei habe ich mich vor allem mit C# beschäftigt und die Grundlagen angeschaut.
 
-### Planung 23.08.2024
+### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Überlegen was für ein Projekt
@@ -39,5 +39,16 @@ Heute habe ich den ersten ILA‑Tag vollständig erledigt und auch die Aufgabe z
 
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich mit meinem Projekt angefangen und eine Webseite gefunden, auf der man C# für Anfänger lernen kann. Ich habe die ersten Grundlagen angeschaut und ein bisschen ausprobiert, wie die Sprache funktioniert. Die Übungen waren hilfreich und ich habe gemerkt, dass ich langsam besser verstehe, wie man in C# programmiert.
+
+
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] An Projekt arbeiten(C# lernen)
+- [ ] Für OBA(09.09.26) lernen 
+- [ ] if else und Variabeln lernen
+
+(Heute habe ich... (50-100 Wörter))
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
