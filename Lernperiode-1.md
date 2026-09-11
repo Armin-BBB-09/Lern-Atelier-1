@@ -56,9 +56,10 @@ Für OBA bin ich bereit.
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] An Projekt arbeiten(C# lernen)
-- [ ] Für OBA lernen, war am Mittwoch(09.09.2026) nicht da.
-- [ ] while und for schleife lernen
+- [ ] C# auf der Lernseite weiterlernen.
+- [ ] Mission 7 nachholen und abschliessen.
+- [ ] for-Schleifen lernen und üben.
+- [ ] while-Schleifen lernen und üben.
 
 (Heute habe ich... (50-100 Wörter))
 
