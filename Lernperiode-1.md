@@ -52,5 +52,16 @@ Heute habe ich mit meinem Projekt angefangen und eine Webseite gefunden, auf der
 Heute habe ich vieles gelernt und einigen Sachen sind mir klar geworden wie while schleife, wie man das macht und wie das funktioniert oder auch die Verschiedene Datentypen gelernt wie zum Beispiel bool das es immer true oder false zeigt, das kann man gebrauchen z.B. wenn ich will schauen ob er eingelogt ist oder nicht.
 Für OBA bin ich bereit.
 
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] An Projekt arbeiten(C# lernen)
+- [ ] Für OBA lernen, war am Mittwoch(09.09.2026) nicht da.
+- [ ] while und for schleife lernen
+
+(Heute habe ich... (50-100 Wörter))
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
