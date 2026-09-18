@@ -65,5 +65,15 @@ Für OBA bin ich bereit.
 (Heute habe ich... (50-100 Wörter))
 Habe heute produktiv gearbeitet dennoch war ich noch am bisschen müde, da ich nicht viel getrunken habe. Ansonsten habe ich gut gearbeitet. Und es war auch am bisschen Laut und konnte mich nicht richtig konzentrieren.
 
+
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Handlungsziel 2 fertig machen in Modul 431.
+- [ ] Mission 8 beenden im Modul 319.
+
+(Heute habe ich... (50-100 Wörter))
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
