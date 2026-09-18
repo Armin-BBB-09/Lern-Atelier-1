@@ -73,7 +73,7 @@ Habe heute produktiv gearbeitet dennoch war ich noch am bisschen müde, da ich n
 - [X] Mission 8 fertig machen im Modul 319.
 
 (Heute habe ich... (50-100 Wörter))
-
+Sehr gut gearbeitet das ich früh fertig war und konnte an mein Projekt C# weiterlernen. Ich war sehr konzentrierter als letztes mal. Grund weiss ich nicht. Vielleicht wegen Musik. 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
