@@ -69,8 +69,8 @@ Habe heute produktiv gearbeitet dennoch war ich noch am bisschen müde, da ich n
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Handlungsziel 2 fertig machen in Modul 431.
-- [ ] Mission 8 beenden im Modul 319.
+- [X] Handlungsziel 2 Erweiterte Aufgaben fertig machen in Modul 431.
+- [X] Mission 8 fertig machen im Modul 319.
 
 (Heute habe ich... (50-100 Wörter))
 
