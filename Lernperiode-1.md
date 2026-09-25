@@ -75,5 +75,14 @@ Habe heute produktiv gearbeitet dennoch war ich noch am bisschen müde, da ich n
 (Heute habe ich... (50-100 Wörter))
 Sehr gut gearbeitet das ich früh fertig war und konnte an mein Projekt C# weiterlernen. Ich war sehr konzentrierter als letztes mal. Grund weiss ich nicht. Vielleicht wegen Musik. 
 
+
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Handlungsziel 3 fertig machen in Modul 431.
+
+(Heute habe ich... (50-100 Wörter))
+ 
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
