@@ -79,10 +79,12 @@ Sehr gut gearbeitet das ich früh fertig war und konnte an mein Projekt C# weite
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Handlungsziel 3 fertig machen in Modul 431.
+- [X] Handlungsziel 3 fertig machen in Modul 431.
 
 (Heute habe ich... (50-100 Wörter))
- 
+ Bin heute Krank, deshalb konnte ich nicht richtig arbeiten, aber habe mein Ziel erreicht. Konzentration war nicht so gut., hatte Kopfschemrzen und Schnupfen.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich produktiv gearbeitet, dennoch war mein Projekt nicht so mega Interessant. Ich möchte nach den Ferien ein besseres Projekt starten.
+Ich war nur am letzten Tag von ILA bisschen krank und deswegen war ich auch nicht konzentrierter. Meine Ziele wurden zur zeit immer weniger und das will ich ändern. Wieso ist es so, weil ich nicht richtiges Projekt hatte.  
