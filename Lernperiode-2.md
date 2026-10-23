@@ -75,8 +75,8 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Modul 431 Fertig machen(Handlungsziel 4, 3 Aufgaben zu machen.
-- [ ] Üben für 3 h Prüfung von Modul 319.
+- [X] Modul 431 Fertig machen(Handlungsziel 4, 3 Aufgaben zu machen.
+- [X] Üben für 3 h Prüfung von Modul 319.
 - [ ] -
 
 
@@ -88,7 +88,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Ich habe sehr gut gearbeitet, war sehr motiviert weil ich schnell vorwärts gekommen bin. Ich habe meine Ziele erreicht. Für nächstes mal genau so arbeiten!
 
 
 <!--
