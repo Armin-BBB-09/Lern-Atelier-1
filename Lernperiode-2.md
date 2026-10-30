@@ -91,9 +91,17 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 Ich habe sehr gut gearbeitet, war sehr motiviert weil ich schnell vorwärts gekommen bin. Ich habe meine Ziele erreicht. Für nächstes mal genau so arbeiten!
 
 
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
+### Planung 30.10.2026
+
+
+- [ ] Heute recherchiere ich mindestens 3 Projektideen.
+- [ ] Heute entscheide ich mich für eine Projektrichtung.
+- [ ] Wenn die ersten beiden Ziele erreicht sind, beginne ich heute mit dem Projekt.
+
+
+#### Tagesreflexion
+
+
 
 ## Lernperiode Reflexion
 <!--
