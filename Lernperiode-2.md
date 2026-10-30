@@ -1,4 +1,4 @@
-# Lern-Periode NR
+# Lern-Periode 2
 <!--
 **ANLEITUNG**
 
@@ -29,14 +29,14 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-Ich hatte bis jetzt nur OBA und dort habe ich eine 3.8 geschrieben, ich hatte falsche Antwort gegeben ich falsch verstanden.
+Ich hatte bis jetzt nur OBA und dort habe ich eine 3.8 geschrieben, ich hatte falsche antworte gegeben und auch falsch verstanden.
 
 ### Veränderungen
 <!--
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-Ein richtiges Projekt haben.
+Ein richtiges Projekt haben und nicht wie Lernen für C#, weil ich genug wissen habe und ich will es anwenden.
 
 ### Projekte / neue Technologien
 <!--
@@ -44,15 +44,14 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
-
-...Ihr Text...
+Ich mache mit C# eine Labyrinth, dabei gibt es verschieden Aufgabe zum Ziel zu kommen. Ich werde es nicht ganz alleine machen nur ein bisschen mit KI aber den Code schreibe ich ohne KI und wenn ich fragen habe gehe ich zu Lehrer. Ich gehe mit KI nur den Ablauf, weil ich wusste nicht mit was ich Anfangen. Vielleicht wird dieser Projekt lang dauern aber trotzdem wird es spass machen und ich lerne dabei auch vieles.
 
 ### Generelle Ziele
 <!--
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-Das ich bei der nächste Prüfung gut bestehe.
+Das ich bei der nächste Prüfung gut bestehe und auch dass ich mein Projekt weit zu kommen.
 
 ## Tagesplanungen
 <!--
