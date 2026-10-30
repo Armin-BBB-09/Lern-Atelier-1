@@ -94,9 +94,22 @@ Ich habe sehr gut gearbeitet, war sehr motiviert weil ich schnell vorwärts geko
 ### Planung 30.10.2026
 
 
-- [ ] Heute recherchiere ich mindestens 3 Projektideen.
-- [ ] Heute entscheide ich mich für eine Projektrichtung.
-- [ ] Wenn die ersten beiden Ziele erreicht sind, beginne ich heute mit dem Projekt.
+- [X] Heute recherchiere ich mindestens 3 Projektideen.
+- [X] Heute entscheide ich mich für eine Projektrichtung.
+- [X] Wenn die ersten beiden Ziele erreicht sind, beginne ich heute mit dem Projekt.
+
+
+#### Tagesreflexion
+
+Heute habe ich gut gearbeitet und konzentriert, war nicht abgelenkt dazu konnte ich meine Ziele erreichen. Für nächstes mal genau so nochmal arbeiten!
+
+
+### Planung 06.11.2026
+
+
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 #### Tagesreflexion
