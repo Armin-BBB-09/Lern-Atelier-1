@@ -106,13 +106,24 @@ Heute habe ich gut gearbeitet und konzentriert, war nicht abgelenkt dazu konnte 
 ### Planung 06.11.2026
 
 
-- [ ] Modul 162 Auftrag 21 fertig machen
-- [ ] Projekt, PaP fertig machen.
+- [X] Modul 162 Auftrag 21 fertig machen
+- [X] Projekt, PaP fertig machen.
 - [ ] Anfangen mit dem Anfang von Projekt
 
 
 #### Tagesreflexion
+Nicht so gut gearbeitet, weil ich abgelenkt wurde durch meine Kollegen, und darum konnte ich eine Aufgabe nicht fertig schaffen.
 
+
+### Planung 13.11.2026
+
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+#### Tagesreflexion
 
 
 ## Lernperiode Reflexion
