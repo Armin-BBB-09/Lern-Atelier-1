@@ -118,9 +118,9 @@ Nicht so gut gearbeitet, weil ich abgelenkt wurde durch meine Kollegen, und daru
 ### Planung 13.11.2026
 
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Bei Modul 162 Auftrag 1731 und 1734 fertig arbeiten.
+- [ ] Projekt arbeiten, also Anfangen mit Programmieren.
+- [ ] -
 
 
 #### Tagesreflexion
