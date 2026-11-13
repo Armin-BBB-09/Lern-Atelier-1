@@ -118,12 +118,25 @@ Nicht so gut gearbeitet, weil ich abgelenkt wurde durch meine Kollegen, und daru
 ### Planung 13.11.2026
 
 
-- [ ] Bei Modul 162 Auftrag 1731 und 1734 fertig arbeiten.
+- [X] Bei Modul 162 Auftrag 1731 fertig arbeiten.
 - [ ] Projekt arbeiten, also Anfangen mit Programmieren.
-- [ ] -
+- [ ] Bei Modul 162 Auftrag 1734 fertig arbeiten
 
 
 #### Tagesreflexion
+Eigentlich habe ich heute gut gearbeitet aber die Aufgabe 1734 war bisschen schwieriger als ich dachte und habe bisschen am Projekt gearbeitet, aber fertig habe ich noch nicht gemacht !
+
+
+### Planung 20.11.2026
+
+
+- [ ] 
+- [ ] 
+- [ ]
+
+
+#### Tagesreflexion
+
 
 
 ## Lernperiode Reflexion
