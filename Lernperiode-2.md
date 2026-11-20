@@ -30,6 +30,7 @@ in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
 Ich hatte bis jetzt nur OBA und dort habe ich eine 3.8 geschrieben, ich hatte falsche antworte gegeben und auch falsch verstanden.
+Ich habe zu Modul 431 eine 5,5 geschrieben und darauf bin ich sehr stolz!
 
 ### Veränderungen
 <!--
