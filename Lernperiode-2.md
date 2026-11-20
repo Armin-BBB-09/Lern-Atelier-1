@@ -130,9 +130,10 @@ Eigentlich habe ich heute gut gearbeitet aber die Aufgabe 1734 war bisschen schw
 ### Planung 20.11.2026
 
 
-- [ ] 
-- [ ] 
-- [ ]
+- [ ] Modul 162 Auftrag 1741 arbeiten
+- [ ] Modul 162 Auftrag 1724 arbeiten
+- [ ] Projekt mit Programmieren Starten.
+
 
 
 #### Tagesreflexion
