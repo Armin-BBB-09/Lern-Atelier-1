@@ -131,14 +131,14 @@ Eigentlich habe ich heute gut gearbeitet aber die Aufgabe 1734 war bisschen schw
 ### Planung 20.11.2026
 
 
-- [ ] Modul 162 Auftrag 1741 arbeiten
-- [ ] Modul 162 Auftrag 1724 arbeiten
+- [X] Modul 162 Auftrag 1741 arbeiten
+- [X] Modul 162 Auftrag 1724 arbeiten
 - [ ] Projekt mit Programmieren Starten.
 
 
 
 #### Tagesreflexion
-
+Gut gearbeitet, habe mich überschätzt bei Modul 162 Auftrag 1741 weil ein grosses Thema und konnte nicht alle meine Ziele erreichen, aber produktiv gearbeitet.
 
 
 ## Lernperiode Reflexion
