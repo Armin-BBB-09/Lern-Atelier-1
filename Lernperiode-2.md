@@ -144,13 +144,28 @@ Gut gearbeitet, habe mich überschätzt bei Modul 162 Auftrag 1741 weil ein gros
 ### Planung 27.11.2026
 
 
-- [ ] Modul 162 Auftrag 1753 arbeiten
-- [ ] Projekt am Mittwoch, PowerPoint machen
+- [X] Modul 162 Auftrag 1753 arbeiten
+- [X] Projekt am Mittwoch, PowerPoint starten 
 - [ ] Projekt mit Programmieren Starten.
 
 
 
 #### Tagesreflexion
+Ich habe produktiv und konzentriert gearbeitet, ich bin stolz was ich heute erreicht habe, ich hatte heute Kopfschmerzen. Grund war glaube ich das ich zu wenig getrunken habe und mein Fokus auf das PowerPoint war.
+
+
+
+### Planung 04.21.2026
+
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+#### Tagesreflexion
+
 
 
 ## Lernperiode Reflexion
