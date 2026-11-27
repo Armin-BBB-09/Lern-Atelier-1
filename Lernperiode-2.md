@@ -141,6 +141,18 @@ Eigentlich habe ich heute gut gearbeitet aber die Aufgabe 1734 war bisschen schw
 Gut gearbeitet, habe mich überschätzt bei Modul 162 Auftrag 1741 weil ein grosses Thema und konnte nicht alle meine Ziele erreichen, aber produktiv gearbeitet.
 
 
+### Planung 27.11.2026
+
+
+- [ ] Modul 162 Auftrag 1753 arbeiten
+- [ ] Projekt am Mittwoch, PowerPoint machen
+- [ ] Projekt mit Programmieren Starten.
+
+
+
+#### Tagesreflexion
+
+
 ## Lernperiode Reflexion
 <!--
 Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
